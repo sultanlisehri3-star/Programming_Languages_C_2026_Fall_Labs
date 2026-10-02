@@ -1,7 +1,7 @@
 /*
  * Lab 3 - Task 1
- * Name: YOUR NAME
- * Student ID: YOUR STUDENT ID
+ * Name: Sehri Sultanli
+ * Student ID: 251ADB093
  */
 
 #include <stdio.h>
