@@ -1,5 +1,5 @@
 // Sehri Sultanli 251ADB093
-// https://github.com/<sultanlisehri3-star>/calc-lab-home
+// https://github.com/sultanlisehri3-star/Programming_Languages_C_2026_Fall_Labs
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
 // Resources used: Claude AI (prompt: i made calc.c, and opened files, please now say to me what i need to write codes" with the lab handout and calc-tests.zip attached.), conversation: <https://claude.ai/share/1df4e7af-3af4-406d-94cb-bcd2ddc6ad55>; C standard library man pages (strtod, pow, opendir, stat, mkdir). Details in comments where used.
 
